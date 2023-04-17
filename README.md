@@ -2,7 +2,7 @@
 
 This repository contains a nearly-original archive of the official Pepsi Spire site, which used to be located at [pepsispire.com](https://pepsispire.com).  
 
-Unfortunately, not every asset was archived before the site went offline.  Those missing assets were either recreated, or left out of this repo.  
+Unfortunately, not every asset was archived before the site went offline in April 2023.  Those missing assets were either recreated, or left out of this repo.  
 
 
 > Note: The assets that make up the site are from several archives over multiple years, so some information may be outdated.  
