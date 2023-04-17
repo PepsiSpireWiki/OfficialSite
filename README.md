@@ -1,6 +1,6 @@
 # Official Pepsi Spire Site (Archive)  
 
-This repository contains a nearly-original built version of the official Pepsi Spire site, which used to be located at [pepsispire.com](https://pepsispire.com).  
+This repository contains a nearly-original archive of the official Pepsi Spire site, which used to be located at [pepsispire.com](https://pepsispire.com).  
 
 Unfortunately, not every asset was archived before the site went offline.  Those missing assets were either recreated, or left out of this repo.  
 
