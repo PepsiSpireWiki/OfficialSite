@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Southern Style",
+        "copy": "Add a shot of lemon and peach to your Mountain Dew and prepare to take your taste buds on a trip to the South. The crisp, citrus taste will send you on a journey to the land of porch swings and peach cobbler.",
+        "beverageId": 18,
+        "mixology": [
+            {
+                "flavorId": 3
+            },
+            {
+                "flavorId": 7
+            }
+        ],
+        "strokeColor": "#fca081",
+        "iconColor": "#fea385",
+        "mixLogoUrl": "/mixology/southern-style/logo.png",
+        "photoUrl": "/mixology/southern-style/photo.jpg",
+        "photoHighUrl": "/mixology/southern-style/photo-high.jpg"
+    },
+    {
+        "title": "Orchard Blush",
+        "copy": "Take a bite out of this deliciously mixed up take on the crisp apple flavor of Manzanita Sol. Just add a shot of vanilla and strawberry for an added layer of smooth fruit flavor.",
+        "beverageId": 43,
+        "mixology": [
+            {
+                "flavorId": 1
+            },
+            {
+                "flavorId": 2
+            }
+        ],
+        "strokeColor": "#ffa9af",
+        "iconColor": "#ffa9af",
+        "mixLogoUrl": "/mixology/orchard-blush/logo.png",
+        "photoUrl": "/mixology/orchard-blush/photo.jpg",
+        "photoHighUrl": "/mixology/orchard-blush/photo-high.jpg"
+    },
+    {
+        "title": "Midnight Fog",
+        "copy": "Mix up your Pepsi with a shot of vanilla and raspberry for a refreshing take on the classic drink. The smooth flavor of this inspired mix is perfect for those laid back (or not so laid back) late nights.",
+        "beverageId": 8,
+        "mixology": [
+            {
+                "flavorId": 4
+            },
+            {
+                "flavorId": 1
+            }
+        ],
+        "strokeColor": "#ee98a8",
+        "iconColor": "#8d1f5c",
+        "mixLogoUrl": "/mixology/midnight-fog/logo.png",
+        "photoUrl": "/mixology/midnight-fog/photo.jpg",
+        "photoHighUrl": "/mixology/midnight-fog/photo-high.jpg"
+    }
+]

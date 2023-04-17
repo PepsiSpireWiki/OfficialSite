@@ -1,0 +1,38 @@
+{
+    "events":[
+        {
+            "id":1,
+            "display_event":false,
+            "name":"Event Name",
+            "url":null,
+            "description":null,
+            "display_description":false,
+            "address_name":"Address Name",
+            "address":"Address",
+            "address_secondary":null,
+            "address_tertiary":null,
+            "city":"City Name",
+            "state_id":1234,
+            "zipcode":"12345",
+            "lat":123,
+            "lng":456,
+            "date":"01\/23\/1234",
+            "asset":null,
+            "display_asset":false,
+            "geo_url":null,
+            "created_at":"-0001-11-30 00:00:00",
+            "updated_at":"-0001-11-30 00:00:00",
+            "state":{
+                "id":1234,
+                "name":"State Name",
+                "short":"SN",
+                "country":"United States",
+                "created_at":"-0001-11-30 00:00:00",
+                "updated_at":"-0001-11-30 00:00:00"
+            }
+        }
+    ],
+    "assets":[
+        
+    ]
+}

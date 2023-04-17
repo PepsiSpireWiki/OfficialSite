@@ -1,0 +1,2712 @@
+{"frames": {
+
+"PepsiDotCom_Lemon_V2__00000.png":
+{
+	"frame": {"x":408,"y":1086,"w":38,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":58,"w":38,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00001.png":
+{
+	"frame": {"x":648,"y":1086,"w":44,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":58,"w":44,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00002.png":
+{
+	"frame": {"x":93,"y":1086,"w":54,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":58,"w":54,"h":73},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00003.png":
+{
+	"frame": {"x":220,"y":1012,"w":57,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":59,"w":57,"h":71},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00004.png":
+{
+	"frame": {"x":273,"y":868,"w":60,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":60,"w":60,"h":68},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00005.png":
+{
+	"frame": {"x":602,"y":799,"w":61,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":60,"w":61,"h":67},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00006.png":
+{
+	"frame": {"x":480,"y":665,"w":60,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":60,"w":60,"h":64},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00007.png":
+{
+	"frame": {"x":166,"y":665,"w":61,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":61,"h":63},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00008.png":
+{
+	"frame": {"x":290,"y":536,"w":62,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":62,"h":61},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00009.png":
+{
+	"frame": {"x":276,"y":473,"w":62,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":62,"h":60},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00010.png":
+{
+	"frame": {"x":120,"y":731,"w":66,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":53,"w":66,"h":65},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00011.png":
+{
+	"frame": {"x":665,"y":799,"w":64,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":51,"w":64,"h":67},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00012.png":
+{
+	"frame": {"x":399,"y":1012,"w":61,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":49,"w":61,"h":72},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00013.png":
+{
+	"frame": {"x":2,"y":1238,"w":63,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":45,"w":63,"h":78},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00014.png":
+{
+	"frame": {"x":67,"y":1238,"w":64,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":41,"w":64,"h":86},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00015.png":
+{
+	"frame": {"x":259,"y":1238,"w":62,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":37,"w":62,"h":92},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00016.png":
+{
+	"frame": {"x":323,"y":1238,"w":56,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":33,"w":56,"h":99},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00017.png":
+{
+	"frame": {"x":381,"y":1238,"w":60,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":31,"w":60,"h":101},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00018.png":
+{
+	"frame": {"x":443,"y":1238,"w":66,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":29,"w":66,"h":101},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00019.png":
+{
+	"frame": {"x":511,"y":1238,"w":70,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":28,"w":70,"h":102},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00020.png":
+{
+	"frame": {"x":498,"y":1595,"w":75,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":27,"w":75,"h":128},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00021.png":
+{
+	"frame": {"x":575,"y":1595,"w":78,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":27,"w":78,"h":128},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00022.png":
+{
+	"frame": {"x":676,"y":1466,"w":82,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":27,"w":82,"h":127},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00023.png":
+{
+	"frame": {"x":760,"y":1466,"w":85,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":27,"w":85,"h":127},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00024.png":
+{
+	"frame": {"x":340,"y":1466,"w":90,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":27,"w":90,"h":125},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00025.png":
+{
+	"frame": {"x":2,"y":1466,"w":95,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":27,"w":95,"h":124},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00026.png":
+{
+	"frame": {"x":732,"y":1343,"w":100,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":28,"w":100,"h":121},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00027.png":
+{
+	"frame": {"x":626,"y":1343,"w":104,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":28,"w":104,"h":119},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00028.png":
+{
+	"frame": {"x":712,"y":1726,"w":107,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":29,"w":107,"h":133},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00029.png":
+{
+	"frame": {"x":601,"y":1726,"w":109,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":29,"w":109,"h":133},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00030.png":
+{
+	"frame": {"x":240,"y":1726,"w":111,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":30,"w":111,"h":131},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00031.png":
+{
+	"frame": {"x":2,"y":1726,"w":113,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":30,"w":113,"h":130},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00032.png":
+{
+	"frame": {"x":655,"y":1595,"w":115,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":30,"w":115,"h":129},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00033.png":
+{
+	"frame": {"x":432,"y":1466,"w":116,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":31,"w":116,"h":126},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00034.png":
+{
+	"frame": {"x":220,"y":1466,"w":118,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":31,"w":118,"h":125},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00035.png":
+{
+	"frame": {"x":99,"y":1466,"w":119,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":32,"w":119,"h":125},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00036.png":
+{
+	"frame": {"x":128,"y":1595,"w":119,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":32,"w":119,"h":127},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00037.png":
+{
+	"frame": {"x":376,"y":1595,"w":120,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":32,"w":120,"h":128},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00038.png":
+{
+	"frame": {"x":117,"y":1726,"w":121,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":32,"w":121,"h":130},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00039.png":
+{
+	"frame": {"x":353,"y":1726,"w":122,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":32,"w":122,"h":132},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00040.png":
+{
+	"frame": {"x":477,"y":1726,"w":122,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":32,"w":122,"h":133},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00041.png":
+{
+	"frame": {"x":2,"y":1861,"w":123,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":33,"w":123,"h":134},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00042.png":
+{
+	"frame": {"x":127,"y":1861,"w":124,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":33,"w":124,"h":135},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00043.png":
+{
+	"frame": {"x":253,"y":1861,"w":125,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":33,"w":125,"h":136},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00044.png":
+{
+	"frame": {"x":380,"y":1861,"w":125,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":33,"w":125,"h":137},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00045.png":
+{
+	"frame": {"x":507,"y":1861,"w":125,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":33,"w":125,"h":139},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00046.png":
+{
+	"frame": {"x":634,"y":1861,"w":126,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":33,"w":126,"h":139},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00047.png":
+{
+	"frame": {"x":550,"y":1466,"w":124,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":34,"w":124,"h":126},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00048.png":
+{
+	"frame": {"x":2,"y":1595,"w":124,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":34,"w":124,"h":127},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00049.png":
+{
+	"frame": {"x":249,"y":1595,"w":125,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":34,"w":125,"h":128},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00050.png":
+{
+	"frame": {"x":378,"y":1343,"w":122,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":50,"w":122,"h":113},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00051.png":
+{
+	"frame": {"x":502,"y":1343,"w":122,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":50,"w":122,"h":114},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00052.png":
+{
+	"frame": {"x":128,"y":1343,"w":123,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":59,"w":123,"h":105},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00053.png":
+{
+	"frame": {"x":253,"y":1343,"w":123,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":59,"w":123,"h":106},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00054.png":
+{
+	"frame": {"x":583,"y":1238,"w":123,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":59,"w":123,"h":102},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00055.png":
+{
+	"frame": {"x":2,"y":1343,"w":124,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":58,"w":124,"h":104},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00056.png":
+{
+	"frame": {"x":708,"y":1238,"w":124,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":59,"w":124,"h":103},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00057.png":
+{
+	"frame": {"x":133,"y":1238,"w":124,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":59,"w":124,"h":90},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00058.png":
+{
+	"frame": {"x":735,"y":1086,"w":106,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":60,"w":106,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00059.png":
+{
+	"frame": {"x":44,"y":1162,"w":107,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":60,"w":107,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00060.png":
+{
+	"frame": {"x":363,"y":939,"w":91,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":60,"w":91,"h":70},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00061.png":
+{
+	"frame": {"x":2,"y":939,"w":93,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":60,"w":93,"h":69},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00062.png":
+{
+	"frame": {"x":113,"y":868,"w":95,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":60,"w":95,"h":67},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00063.png":
+{
+	"frame": {"x":680,"y":731,"w":96,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":60,"w":96,"h":66},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00064.png":
+{
+	"frame": {"x":602,"y":665,"w":99,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":59,"w":99,"h":64},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00065.png":
+{
+	"frame": {"x":2,"y":665,"w":101,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":59,"w":101,"h":63},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00066.png":
+{
+	"frame": {"x":330,"y":600,"w":103,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":59,"w":103,"h":62},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00067.png":
+{
+	"frame": {"x":354,"y":536,"w":103,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":59,"w":103,"h":61},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00068.png":
+{
+	"frame": {"x":70,"y":536,"w":86,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":59,"w":86,"h":61},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00069.png":
+{
+	"frame": {"x":589,"y":536,"w":106,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":59,"w":106,"h":61},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00070.png":
+{
+	"frame": {"x":603,"y":92,"w":58,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":58,"h":47},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00071.png":
+{
+	"frame": {"x":692,"y":45,"w":59,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":59,"h":45},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00072.png":
+{
+	"frame": {"x":559,"y":2,"w":61,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":61,"h":41},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00073.png":
+{
+	"frame": {"x":205,"y":2,"w":61,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":61,"h":39},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00074.png":
+{
+	"frame": {"x":2,"y":2,"w":61,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":59,"w":61,"h":36},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00075.png":
+{
+	"frame": {"x":65,"y":2,"w":62,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":59,"w":62,"h":38},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00076.png":
+{
+	"frame": {"x":495,"y":2,"w":62,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":59,"w":62,"h":40},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00077.png":
+{
+	"frame": {"x":78,"y":45,"w":62,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":59,"w":62,"h":42},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00078.png":
+{
+	"frame": {"x":628,"y":45,"w":62,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":59,"w":62,"h":44},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00079.png":
+{
+	"frame": {"x":753,"y":45,"w":62,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":59,"w":62,"h":45},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00080.png":
+{
+	"frame": {"x":2,"y":141,"w":62,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":59,"w":62,"h":47},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00081.png":
+{
+	"frame": {"x":558,"y":141,"w":61,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":59,"w":61,"h":48},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00082.png":
+{
+	"frame": {"x":501,"y":192,"w":60,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":58,"w":60,"h":50},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00083.png":
+{
+	"frame": {"x":683,"y":192,"w":60,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":58,"w":60,"h":50},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00084.png":
+{
+	"frame": {"x":553,"y":244,"w":59,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":58,"w":59,"h":51},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00085.png":
+{
+	"frame": {"x":614,"y":244,"w":58,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":58,"w":58,"h":51},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00086.png":
+{
+	"frame": {"x":492,"y":244,"w":59,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":58,"w":59,"h":51},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00087.png":
+{
+	"frame": {"x":432,"y":244,"w":58,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":58,"w":58,"h":51},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00088.png":
+{
+	"frame": {"x":563,"y":192,"w":58,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":58,"w":58,"h":50},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00089.png":
+{
+	"frame": {"x":623,"y":192,"w":58,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":58,"w":58,"h":50},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00090.png":
+{
+	"frame": {"x":370,"y":192,"w":58,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":58,"w":58,"h":49},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00091.png":
+{
+	"frame": {"x":350,"y":141,"w":58,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":58,"w":58,"h":48},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00092.png":
+{
+	"frame": {"x":140,"y":141,"w":59,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":58,"w":59,"h":47},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00093.png":
+{
+	"frame": {"x":403,"y":92,"w":59,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":58,"w":59,"h":46},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00094.png":
+{
+	"frame": {"x":2,"y":92,"w":59,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":59,"w":59,"h":45},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00095.png":
+{
+	"frame": {"x":566,"y":45,"w":60,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":59,"w":60,"h":44},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00096.png":
+{
+	"frame": {"x":504,"y":45,"w":60,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":59,"w":60,"h":44},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00097.png":
+{
+	"frame": {"x":441,"y":45,"w":61,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":59,"w":61,"h":44},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00098.png":
+{
+	"frame": {"x":63,"y":92,"w":61,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":59,"w":61,"h":45},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00099.png":
+{
+	"frame": {"x":126,"y":92,"w":62,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":59,"w":62,"h":45},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00100.png":
+{
+	"frame": {"x":338,"y":92,"w":63,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":59,"w":63,"h":46},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00101.png":
+{
+	"frame": {"x":538,"y":92,"w":63,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":59,"w":63,"h":46},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00102.png":
+{
+	"frame": {"x":735,"y":92,"w":64,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":59,"w":64,"h":47},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00103.png":
+{
+	"frame": {"x":621,"y":141,"w":64,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":59,"w":64,"h":48},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00104.png":
+{
+	"frame": {"x":760,"y":141,"w":64,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":59,"w":64,"h":49},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00105.png":
+{
+	"frame": {"x":296,"y":244,"w":64,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":59,"w":64,"h":50},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00106.png":
+{
+	"frame": {"x":220,"y":298,"w":64,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":59,"w":64,"h":52},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00107.png":
+{
+	"frame": {"x":674,"y":244,"w":64,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":59,"w":64,"h":52},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00108.png":
+{
+	"frame": {"x":427,"y":354,"w":64,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":59,"w":64,"h":55},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00109.png":
+{
+	"frame": {"x":493,"y":354,"w":63,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":59,"w":63,"h":55},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00110.png":
+{
+	"frame": {"x":277,"y":412,"w":63,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":59,"w":63,"h":58},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00111.png":
+{
+	"frame": {"x":342,"y":412,"w":62,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":59,"w":62,"h":58},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00112.png":
+{
+	"frame": {"x":666,"y":473,"w":61,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":59,"w":61,"h":60},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00113.png":
+{
+	"frame": {"x":526,"y":536,"w":61,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":59,"w":61,"h":61},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00114.png":
+{
+	"frame": {"x":692,"y":600,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":59,"w":60,"h":63},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00115.png":
+{
+	"frame": {"x":105,"y":665,"w":59,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":59,"w":59,"h":63},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00116.png":
+{
+	"frame": {"x":420,"y":665,"w":58,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":60,"w":58,"h":64},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00117.png":
+{
+	"frame": {"x":703,"y":665,"w":57,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":60,"w":57,"h":64},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00118.png":
+{
+	"frame": {"x":66,"y":799,"w":56,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":60,"w":56,"h":66},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00119.png":
+{
+	"frame": {"x":623,"y":731,"w":55,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":60,"w":55,"h":66},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00120.png":
+{
+	"frame": {"x":2,"y":868,"w":54,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":60,"w":54,"h":67},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00121.png":
+{
+	"frame": {"x":58,"y":868,"w":53,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":60,"w":53,"h":67},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00122.png":
+{
+	"frame": {"x":503,"y":868,"w":51,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":60,"w":51,"h":68},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00123.png":
+{
+	"frame": {"x":781,"y":868,"w":50,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":60,"w":50,"h":69},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00124.png":
+{
+	"frame": {"x":618,"y":868,"w":48,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":60,"w":48,"h":69},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00125.png":
+{
+	"frame": {"x":741,"y":939,"w":48,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":60,"w":48,"h":70},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00126.png":
+{
+	"frame": {"x":791,"y":939,"w":46,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":59,"w":46,"h":71},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00127.png":
+{
+	"frame": {"x":798,"y":1012,"w":45,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":59,"w":45,"h":72},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00128.png":
+{
+	"frame": {"x":149,"y":1086,"w":43,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":58,"w":43,"h":73},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00129.png":
+{
+	"frame": {"x":239,"y":1086,"w":42,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":58,"w":42,"h":73},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00130.png":
+{
+	"frame": {"x":2,"y":1162,"w":40,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":58,"w":40,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00131.png":
+{
+	"frame": {"x":694,"y":1086,"w":39,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":58,"w":39,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00132.png":
+{
+	"frame": {"x":608,"y":1086,"w":38,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":58,"w":38,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00133.png":
+{
+	"frame": {"x":490,"y":1086,"w":37,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":58,"w":37,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00134.png":
+{
+	"frame": {"x":569,"y":1086,"w":37,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":58,"w":37,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00135.png":
+{
+	"frame": {"x":529,"y":1086,"w":38,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":58,"w":38,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00136.png":
+{
+	"frame": {"x":448,"y":1086,"w":40,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":58,"w":40,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00137.png":
+{
+	"frame": {"x":515,"y":1162,"w":41,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":58,"w":41,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00138.png":
+{
+	"frame": {"x":194,"y":1086,"w":43,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":58,"w":43,"h":73},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00139.png":
+{
+	"frame": {"x":704,"y":1012,"w":44,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":59,"w":44,"h":72},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00140.png":
+{
+	"frame": {"x":750,"y":1012,"w":46,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":59,"w":46,"h":72},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00141.png":
+{
+	"frame": {"x":518,"y":939,"w":47,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":60,"w":47,"h":70},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00142.png":
+{
+	"frame": {"x":567,"y":939,"w":49,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":60,"w":49,"h":70},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00143.png":
+{
+	"frame": {"x":668,"y":868,"w":50,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":61,"w":50,"h":69},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00144.png":
+{
+	"frame": {"x":147,"y":939,"w":51,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":61,"w":51,"h":69},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00145.png":
+{
+	"frame": {"x":335,"y":868,"w":52,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":62,"w":52,"h":68},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00146.png":
+{
+	"frame": {"x":788,"y":799,"w":54,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":63,"w":54,"h":67},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00147.png":
+{
+	"frame": {"x":731,"y":799,"w":55,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":63,"w":55,"h":67},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00148.png":
+{
+	"frame": {"x":186,"y":799,"w":56,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":64,"w":56,"h":66},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00149.png":
+{
+	"frame": {"x":315,"y":731,"w":56,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":65,"w":56,"h":65},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00150.png":
+{
+	"frame": {"x":542,"y":665,"w":58,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":66,"w":58,"h":64},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00151.png":
+{
+	"frame": {"x":567,"y":600,"w":59,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":67,"w":59,"h":63},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00152.png":
+{
+	"frame": {"x":201,"y":600,"w":60,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":68,"w":60,"h":62},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00153.png":
+{
+	"frame": {"x":729,"y":473,"w":61,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":69,"w":61,"h":61},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00154.png":
+{
+	"frame": {"x":408,"y":473,"w":62,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":70,"w":62,"h":60},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00155.png":
+{
+	"frame": {"x":406,"y":412,"w":63,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":71,"w":63,"h":58},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00156.png":
+{
+	"frame": {"x":2,"y":412,"w":64,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":72,"w":64,"h":57},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00157.png":
+{
+	"frame": {"x":558,"y":354,"w":65,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":73,"w":65,"h":56},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00158.png":
+{
+	"frame": {"x":285,"y":354,"w":66,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":74,"w":66,"h":55},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00159.png":
+{
+	"frame": {"x":580,"y":298,"w":66,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":75,"w":66,"h":54},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00160.png":
+{
+	"frame": {"x":2,"y":298,"w":68,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":77,"w":68,"h":52},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00161.png":
+{
+	"frame": {"x":362,"y":244,"w":68,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":78,"w":68,"h":51},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00162.png":
+{
+	"frame": {"x":430,"y":192,"w":69,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":79,"w":69,"h":50},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00163.png":
+{
+	"frame": {"x":2,"y":192,"w":69,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":80,"w":69,"h":49},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00164.png":
+{
+	"frame": {"x":663,"y":92,"w":70,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":82,"w":70,"h":47},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00165.png":
+{
+	"frame": {"x":265,"y":92,"w":71,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":83,"w":71,"h":46},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00166.png":
+{
+	"frame": {"x":292,"y":45,"w":72,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":85,"w":72,"h":44},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00167.png":
+{
+	"frame": {"x":217,"y":45,"w":73,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":86,"w":73,"h":43},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00168.png":
+{
+	"frame": {"x":142,"y":45,"w":73,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":87,"w":73,"h":42},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00169.png":
+{
+	"frame": {"x":622,"y":2,"w":73,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":88,"w":73,"h":41},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00170.png":
+{
+	"frame": {"x":344,"y":2,"w":73,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":89,"w":73,"h":40},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00171.png":
+{
+	"frame": {"x":129,"y":2,"w":74,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":90,"w":74,"h":39},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00172.png":
+{
+	"frame": {"x":268,"y":2,"w":74,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":89,"w":74,"h":40},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00173.png":
+{
+	"frame": {"x":419,"y":2,"w":74,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":89,"w":74,"h":40},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00174.png":
+{
+	"frame": {"x":697,"y":2,"w":74,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":88,"w":74,"h":41},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00175.png":
+{
+	"frame": {"x":2,"y":45,"w":74,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":87,"w":74,"h":42},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00176.png":
+{
+	"frame": {"x":366,"y":45,"w":73,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":85,"w":73,"h":44},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00177.png":
+{
+	"frame": {"x":190,"y":92,"w":73,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":84,"w":73,"h":45},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00178.png":
+{
+	"frame": {"x":464,"y":92,"w":72,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":83,"w":72,"h":46},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00179.png":
+{
+	"frame": {"x":66,"y":141,"w":72,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":82,"w":72,"h":47},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00180.png":
+{
+	"frame": {"x":687,"y":141,"w":71,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":80,"w":71,"h":49},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00181.png":
+{
+	"frame": {"x":745,"y":192,"w":70,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":79,"w":70,"h":50},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00182.png":
+{
+	"frame": {"x":72,"y":298,"w":70,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":77,"w":70,"h":52},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00183.png":
+{
+	"frame": {"x":508,"y":298,"w":70,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":70,"h":53},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00184.png":
+{
+	"frame": {"x":724,"y":298,"w":69,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":75,"w":69,"h":54},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00185.png":
+{
+	"frame": {"x":215,"y":354,"w":68,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":74,"w":68,"h":55},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00186.png":
+{
+	"frame": {"x":699,"y":354,"w":67,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":73,"w":67,"h":56},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00187.png":
+{
+	"frame": {"x":68,"y":412,"w":67,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":72,"w":67,"h":57},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00188.png":
+{
+	"frame": {"x":2,"y":473,"w":66,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":70,"w":66,"h":59},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00189.png":
+{
+	"frame": {"x":610,"y":412,"w":66,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":70,"w":66,"h":59},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00190.png":
+{
+	"frame": {"x":459,"y":536,"w":65,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":68,"w":65,"h":61},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00191.png":
+{
+	"frame": {"x":224,"y":536,"w":64,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":68,"w":64,"h":61},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00192.png":
+{
+	"frame": {"x":158,"y":536,"w":64,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":67,"w":64,"h":61},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00193.png":
+{
+	"frame": {"x":763,"y":536,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":66,"w":62,"h":62},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00194.png":
+{
+	"frame": {"x":628,"y":600,"w":62,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":65,"w":62,"h":63},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00195.png":
+{
+	"frame": {"x":357,"y":665,"w":61,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":64,"w":61,"h":64},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00196.png":
+{
+	"frame": {"x":294,"y":665,"w":61,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":64,"w":61,"h":64},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00197.png":
+{
+	"frame": {"x":188,"y":731,"w":61,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":63,"w":61,"h":65},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00198.png":
+{
+	"frame": {"x":244,"y":799,"w":60,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":62,"w":60,"h":66},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00199.png":
+{
+	"frame": {"x":124,"y":799,"w":60,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":62,"w":60,"h":66},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00200.png":
+{
+	"frame": {"x":486,"y":799,"w":59,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":61,"w":59,"h":67},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00201.png":
+{
+	"frame": {"x":362,"y":799,"w":59,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":61,"w":59,"h":67},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00202.png":
+{
+	"frame": {"x":389,"y":868,"w":59,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":60,"w":59,"h":68},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00203.png":
+{
+	"frame": {"x":720,"y":868,"w":59,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":59,"w":59,"h":69},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00204.png":
+{
+	"frame": {"x":252,"y":939,"w":59,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":59,"w":59,"h":69},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00205.png":
+{
+	"frame": {"x":680,"y":939,"w":59,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":58,"w":59,"h":70},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00206.png":
+{
+	"frame": {"x":279,"y":1012,"w":58,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":58,"w":58,"h":71},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00207.png":
+{
+	"frame": {"x":339,"y":1012,"w":58,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":58,"w":58,"h":71},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00208.png":
+{
+	"frame": {"x":584,"y":1012,"w":58,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":57,"w":58,"h":72},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00209.png":
+{
+	"frame": {"x":644,"y":1012,"w":58,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":57,"w":58,"h":72},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00210.png":
+{
+	"frame": {"x":597,"y":1162,"w":58,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":56,"w":58,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00211.png":
+{
+	"frame": {"x":717,"y":1162,"w":58,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":56,"w":58,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00212.png":
+{
+	"frame": {"x":777,"y":1162,"w":58,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":56,"w":58,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00213.png":
+{
+	"frame": {"x":657,"y":1162,"w":58,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":56,"w":58,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00214.png":
+{
+	"frame": {"x":274,"y":1162,"w":58,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":56,"w":58,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00215.png":
+{
+	"frame": {"x":213,"y":1162,"w":59,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":56,"w":59,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00216.png":
+{
+	"frame": {"x":334,"y":1162,"w":59,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":56,"w":59,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00217.png":
+{
+	"frame": {"x":455,"y":1162,"w":58,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":56,"w":58,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00218.png":
+{
+	"frame": {"x":395,"y":1162,"w":58,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":56,"w":58,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00219.png":
+{
+	"frame": {"x":153,"y":1162,"w":58,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":56,"w":58,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00220.png":
+{
+	"frame": {"x":462,"y":1012,"w":59,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":57,"w":59,"h":72},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00221.png":
+{
+	"frame": {"x":523,"y":1012,"w":59,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":57,"w":59,"h":72},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00222.png":
+{
+	"frame": {"x":2,"y":1012,"w":59,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":58,"w":59,"h":71},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00223.png":
+{
+	"frame": {"x":63,"y":1012,"w":60,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":58,"w":60,"h":71},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00224.png":
+{
+	"frame": {"x":618,"y":939,"w":60,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":58,"w":60,"h":70},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00225.png":
+{
+	"frame": {"x":456,"y":939,"w":60,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":58,"w":60,"h":70},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00226.png":
+{
+	"frame": {"x":556,"y":868,"w":60,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":59,"w":60,"h":68},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00227.png":
+{
+	"frame": {"x":210,"y":868,"w":61,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":59,"w":61,"h":68},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00228.png":
+{
+	"frame": {"x":423,"y":799,"w":61,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":59,"w":61,"h":67},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00229.png":
+{
+	"frame": {"x":438,"y":731,"w":61,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":60,"w":61,"h":66},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00230.png":
+{
+	"frame": {"x":2,"y":799,"w":62,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":60,"w":62,"h":66},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00231.png":
+{
+	"frame": {"x":501,"y":731,"w":62,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":60,"w":62,"h":66},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00232.png":
+{
+	"frame": {"x":778,"y":731,"w":62,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":60,"w":62,"h":66},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00233.png":
+{
+	"frame": {"x":251,"y":731,"w":62,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":60,"w":62,"h":65},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00234.png":
+{
+	"frame": {"x":373,"y":731,"w":63,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":60,"w":63,"h":65},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00235.png":
+{
+	"frame": {"x":229,"y":665,"w":63,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":61,"w":63,"h":64},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00236.png":
+{
+	"frame": {"x":501,"y":600,"w":64,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":61,"w":64,"h":63},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00237.png":
+{
+	"frame": {"x":435,"y":600,"w":64,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":61,"w":64,"h":63},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00238.png":
+{
+	"frame": {"x":697,"y":536,"w":64,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":61,"w":64,"h":62},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00239.png":
+{
+	"frame": {"x":263,"y":600,"w":65,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":61,"w":65,"h":62},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00240.png":
+{
+	"frame": {"x":133,"y":600,"w":66,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":61,"w":66,"h":62},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00241.png":
+{
+	"frame": {"x":65,"y":600,"w":66,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":61,"w":66,"h":62},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00242.png":
+{
+	"frame": {"x":2,"y":536,"w":66,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":61,"w":66,"h":61},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00243.png":
+{
+	"frame": {"x":340,"y":473,"w":66,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":61,"w":66,"h":60},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00244.png":
+{
+	"frame": {"x":207,"y":473,"w":67,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":61,"w":67,"h":59},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00245.png":
+{
+	"frame": {"x":678,"y":412,"w":68,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":61,"w":68,"h":59},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00246.png":
+{
+	"frame": {"x":70,"y":473,"w":69,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":60,"w":69,"h":59},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00247.png":
+{
+	"frame": {"x":748,"y":412,"w":69,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":60,"w":69,"h":59},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00248.png":
+{
+	"frame": {"x":471,"y":412,"w":70,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":60,"w":70,"h":58},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00249.png":
+{
+	"frame": {"x":205,"y":412,"w":70,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":60,"w":70,"h":57},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00250.png":
+{
+	"frame": {"x":768,"y":354,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":60,"w":72,"h":56},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00251.png":
+{
+	"frame": {"x":625,"y":354,"w":72,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":60,"w":72,"h":56},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00252.png":
+{
+	"frame": {"x":353,"y":354,"w":72,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":59,"w":72,"h":55},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00253.png":
+{
+	"frame": {"x":2,"y":354,"w":73,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":73,"h":55},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00254.png":
+{
+	"frame": {"x":648,"y":298,"w":74,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":74,"h":54},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00255.png":
+{
+	"frame": {"x":362,"y":298,"w":74,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":74,"h":53},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00256.png":
+{
+	"frame": {"x":144,"y":298,"w":74,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":74,"h":52},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00257.png":
+{
+	"frame": {"x":286,"y":298,"w":74,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":74,"h":52},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00258.png":
+{
+	"frame": {"x":220,"y":244,"w":74,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":74,"h":50},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00259.png":
+{
+	"frame": {"x":2,"y":244,"w":74,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":74,"h":50},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00260.png":
+{
+	"frame": {"x":149,"y":192,"w":74,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":74,"h":49},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00261.png":
+{
+	"frame": {"x":73,"y":192,"w":74,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":74,"h":49},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00262.png":
+{
+	"frame": {"x":275,"y":141,"w":73,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":73,"h":48},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00263.png":
+{
+	"frame": {"x":484,"y":141,"w":72,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":59,"w":72,"h":48},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00264.png":
+{
+	"frame": {"x":201,"y":141,"w":72,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":59,"w":72,"h":48},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00265.png":
+{
+	"frame": {"x":410,"y":141,"w":72,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":59,"w":72,"h":48},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00266.png":
+{
+	"frame": {"x":297,"y":192,"w":71,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":59,"w":71,"h":49},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00267.png":
+{
+	"frame": {"x":225,"y":192,"w":70,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":59,"w":70,"h":49},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00268.png":
+{
+	"frame": {"x":149,"y":244,"w":69,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":59,"w":69,"h":50},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00269.png":
+{
+	"frame": {"x":78,"y":244,"w":69,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":59,"w":69,"h":50},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00270.png":
+{
+	"frame": {"x":740,"y":244,"w":68,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":59,"w":68,"h":52},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00271.png":
+{
+	"frame": {"x":438,"y":298,"w":68,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":59,"w":68,"h":53},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00272.png":
+{
+	"frame": {"x":77,"y":354,"w":67,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":59,"w":67,"h":55},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00273.png":
+{
+	"frame": {"x":146,"y":354,"w":67,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":59,"w":67,"h":55},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00274.png":
+{
+	"frame": {"x":137,"y":412,"w":66,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":59,"w":66,"h":57},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00275.png":
+{
+	"frame": {"x":543,"y":412,"w":65,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":59,"w":65,"h":58},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00276.png":
+{
+	"frame": {"x":141,"y":473,"w":64,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":59,"w":64,"h":59},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00277.png":
+{
+	"frame": {"x":472,"y":473,"w":64,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":59,"w":64,"h":60},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00278.png":
+{
+	"frame": {"x":538,"y":473,"w":62,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":60,"w":62,"h":60},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00279.png":
+{
+	"frame": {"x":602,"y":473,"w":62,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":60,"w":62,"h":60},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00280.png":
+{
+	"frame": {"x":2,"y":600,"w":61,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":60,"w":61,"h":62},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00281.png":
+{
+	"frame": {"x":754,"y":600,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":60,"w":60,"h":63},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00282.png":
+{
+	"frame": {"x":762,"y":665,"w":58,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":60,"w":58,"h":64},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00283.png":
+{
+	"frame": {"x":2,"y":731,"w":58,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":60,"w":58,"h":64},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00284.png":
+{
+	"frame": {"x":62,"y":731,"w":56,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":60,"w":56,"h":65},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00285.png":
+{
+	"frame": {"x":565,"y":731,"w":56,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":60,"w":56,"h":66},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00286.png":
+{
+	"frame": {"x":306,"y":799,"w":54,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":60,"w":54,"h":67},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00287.png":
+{
+	"frame": {"x":547,"y":799,"w":53,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":60,"w":53,"h":67},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00288.png":
+{
+	"frame": {"x":450,"y":868,"w":51,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":60,"w":51,"h":68},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00289.png":
+{
+	"frame": {"x":200,"y":939,"w":50,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":60,"w":50,"h":69},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00290.png":
+{
+	"frame": {"x":97,"y":939,"w":48,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":60,"w":48,"h":69},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00291.png":
+{
+	"frame": {"x":313,"y":939,"w":48,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":60,"w":48,"h":69},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00292.png":
+{
+	"frame": {"x":172,"y":1012,"w":46,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":59,"w":46,"h":71},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00293.png":
+{
+	"frame": {"x":125,"y":1012,"w":45,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":59,"w":45,"h":71},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00294.png":
+{
+	"frame": {"x":47,"y":1086,"w":44,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":58,"w":44,"h":73},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00295.png":
+{
+	"frame": {"x":2,"y":1086,"w":43,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":58,"w":43,"h":73},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00296.png":
+{
+	"frame": {"x":323,"y":1086,"w":41,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":58,"w":41,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00297.png":
+{
+	"frame": {"x":366,"y":1086,"w":40,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":58,"w":40,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00298.png":
+{
+	"frame": {"x":283,"y":1086,"w":38,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":58,"w":38,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"PepsiDotCom_Lemon_V2__00299.png":
+{
+	"frame": {"x":558,"y":1162,"w":37,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":58,"w":37,"h":74},
+	"sourceSize": {"w":172,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "intro-lemon.png",
+	"format": "RGBA8888",
+	"size": {"w":847,"h":2002},
+	"scale": "0.43",
+	"smartupdate": "$TexturePacker:SmartUpdate:89ddce1a7b87ca48dfd592bafd8d7eb7:4cdf55c13a8c8f96966cdafb47f03368:c93530a0fe4224459864c11da36a9e0b$"
+}
+}

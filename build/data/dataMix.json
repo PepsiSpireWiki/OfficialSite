@@ -1,0 +1,35 @@
+[
+    {
+        "title": "American Summer",
+        "copy": "Sierra Mist. Lemon. Strawberry. This exhilarating mix is the perfect drink for a hot summer day (or anytime, really).",
+        "photoUrl": "/mix/1_Sprire_Share_AmSummer-.jpg",
+        "beverageId": 24,
+        "flavorId": 2,
+        "elementId": "bubbleup",
+        "elementAngle": 205,
+        "strokeColor": "#28a545",
+        "buttonTextColor": "#76e490"
+    },
+    {
+        "title": "Ruby Juicy",
+        "copy": "What's better than a cold Tropicana Lemonade? How about one with strawberry, cherry and raspberry flavor shots.",
+        "photoUrl": "/mix/2_Sprire_Share_RubyJuicy.jpg",
+        "beverageId": 28,
+        "flavorId": 4,
+        "elementId": "sun",
+        "elementAngle": 90,
+        "strokeColor": "#fffbbe",
+        "buttonTextColor": "#fdba31"
+    },
+    {
+        "title": "Sun Blossom",
+        "copy": "Liven up your Brisk Tea with a triple shot of lemon, peach and cherry for a no-calorie way to brighten your day.",
+        "photoUrl": "/mix/3_Sprire_Share_Brisk.jpg",
+        "beverageId": 41,
+        "flavorId": 0,
+        "flavorAngle": 90,
+        "strokeColor": "#f7f18f",
+        "elementId": "circles",
+        "elementAngle": 130
+    }
+]

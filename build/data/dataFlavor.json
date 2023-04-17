@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Cherry",
+        "recipeId": "flavor-cherry",
+        "design": {
+            "colorText": "#e71553",
+            "colorTextSelected": "#ff7272",
+            "colorBackground": "#ff0a4f",
+            "opacityDisabled": "0.3",
+            "animationIntro": "flavor_cherry_spin",
+            "animationSelect": "flavor_cherry_select",
+            "animationDeselect": "flavor_cherry_select"
+        },
+        "_id": "cherry"
+    },
+    {
+        "name": "Vanilla",
+        "recipeId": "flavor-vanilla",
+        "design": {
+            "colorText": "#efe06b",
+            "colorTextSelected": "#fff8cc",
+            "colorBackground": "#e7e4b3",
+            "opacityDisabled": "0.6",
+            "animationIntro": "flavor_vanilla_spin",
+            "animationSelect": "flavor_vanilla_select",
+            "animationDeselect": "flavor_vanilla_select"
+        },
+        "_id": "vanilla"
+    },
+    {
+        "name": "Strawberry",
+        "recipeId": "flavor-strawberry",
+        "design": {
+            "colorText": "#ea1619",
+            "colorTextSelected": "#fa7272",
+            "colorBackground": "#f82929",
+            "opacityDisabled": "0.3",
+            "animationIntro": "flavor_strawberry_spin",
+            "animationSelect": "flavor_strawberry_select",
+            "animationDeselect": "flavor_strawberry_select"
+        },
+        "_id": "strawberry"
+    },
+    {
+        "name": "Lemon",
+        "recipeId": "flavor-lemon",
+        "design": {
+            "colorText": "#f6eb35",
+            "colorTextSelected": "#fefbdb",
+            "colorBackground": "#fef054",
+            "opacityDisabled": "0.5",
+            "animationIntro": "flavor_lemon_spin",
+            "animationSelect": "flavor_lemon_select",
+            "animationDeselect": "flavor_lemon_select"
+        },
+        "_id": "lemon"
+    },
+    {
+        "name": "Raspberry",
+        "recipeId": "flavor-raspberry",
+        "design": {
+            "colorText": "#e43f72",
+            "colorTextSelected": "#f64379",
+            "colorBackground": "#cb296f",
+            "opacityDisabled": "0.3",
+            "animationIntro": "flavor_raspberry_spin",
+            "animationSelect": "flavor_raspberry_select",
+            "animationDeselect": "flavor_raspberry_select"
+        },
+        "_id": "raspberry"
+    },
+    {
+        "name": "Lime",
+        "recipeId": "flavor-lime",
+        "design": {
+            "colorText": "#a0dc51",
+            "colorTextSelected": "#e8f76d",
+            "colorBackground": "#d2e252",
+            "opacityDisabled": "0.3",
+            "animationIntro": "flavor_lime_spin",
+            "animationSelect": "flavor_lime_select",
+            "animationDeselect": "flavor_lime_select"
+        },
+        "_id": "lime"
+    },
+    {
+        "name": "Grape",
+        "recipeId": "flavor-grape",
+        "design": {
+            "colorText": "#8560a8",
+            "colorTextSelected": "#b57aba",
+            "colorBackground": "#99589e",
+            "opacityDisabled": "0.6",
+            "animationIntro": "flavor_grape_spin",
+            "animationSelect": "flavor_grape_select",
+            "animationDeselect": "flavor_grape_select"
+        },
+        "_id": "grape",
+        "_platforms": "bridge,spire-3"
+    },
+    {
+        "name": "Peach",
+        "recipeId": "flavor-peach",
+        "design": {
+            "colorText": "#fbaf5d",
+            "colorTextSelected": "#ffd19d",
+            "colorBackground": "#ffb668",
+            "opacityDisabled": "0.5",
+            "animationIntro": "flavor_peach_spin",
+            "animationSelect": "flavor_peach_select",
+            "animationDeselect": "flavor_peach_select"
+        },
+        "_id": "peach",
+        "_platforms": "bridge,spire-3"
+    }
+]

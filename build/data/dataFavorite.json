@@ -1,0 +1,60 @@
+[
+    {
+        "title": "",
+        "beverageId": 8,
+        "mixology": [
+            {
+                "flavorId": 0
+            },
+            {
+                "flavorId": 1
+            }
+        ],
+        "elementId": "headset",
+        "elementAngle": 200
+    },
+    {
+        "title": "",
+        "beverageId": 10,
+        "imageLogo": "assets/beverages/pepsi-diet_logo_brand.png",
+        "mixology": [
+            {
+                "flavorId": 5
+            },
+            {
+                "flavorId": 3
+            }
+        ],
+        "elementId": "heart",
+        "elementAngle": 100
+    },
+    {
+        "title": "",
+        "beverageId": 18,
+        "mixology": [
+            {
+                "flavorId": 2
+            },
+            {
+                "flavorId": 0
+            },
+            {
+                "flavorId": 3
+            }
+        ],
+        "elementId": "skateboard",
+        "elementAngle": -45
+    },
+    {
+        "title": "",
+        "beverageId": 44,
+        "imageLogo": "assets/beverages/sobe-yumberry-pomegranate_logo_crop.png",
+        "mixology": [
+            {
+                "flavorId": 4
+            }
+        ],
+        "elementId": "lizard",
+        "elementAngle": 30
+    }
+]
